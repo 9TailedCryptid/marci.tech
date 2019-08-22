@@ -9,6 +9,10 @@ details {
 	cursor: pointer; 
 }*/
 
+footer{
+	float: right;
+	font-size:85%;
+}
 summary {
 	/*background-color:white;*/
 	outline:none;
