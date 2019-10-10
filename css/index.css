@@ -1,8 +1,9 @@
 .container {
   font-family: Alegreya, Merriweather, Lora, 'Noto Serif', serif;
   width: 90%;
-  max-width: 650px;
+  max-width: 750px;
   margin: auto;
+  padding-top: 6%;
 }
 /*
 details {
@@ -26,7 +27,11 @@ header{
 }
 
 main {
-  padding: 1em;
+  /*padding: 1em;*/
+  padding-top: 2%;
+  padding-left: 7%;
+  padding-right: 5%;
+
 }
 
 address { 
